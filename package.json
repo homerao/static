@@ -1,0 +1,24 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "cdn para fornecer arquivos estáticos para o app filmesonline",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "static"
+  },
+  "keywords": [
+    "css",
+    "javascript",
+    "static",
+    "content"
+  ],
+  "author": "Homero Tiago",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
